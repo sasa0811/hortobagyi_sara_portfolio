@@ -116,9 +116,6 @@ a img{
 	grid-gap: 50px;
 	margin-top: 50px;
 }
-.galeria2 img{
-	width: 40%;
-}
 
 .doboz2{
 	width: 100%;
@@ -128,4 +125,9 @@ a img{
 	justify-content: center;
 	padding: 60px 10%;
 	margin-top: 70px;
+}
+
+
+.galeria2 img{
+	width: 40%;
 }
