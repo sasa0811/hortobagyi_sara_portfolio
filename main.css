@@ -117,7 +117,7 @@ a img{
 }
 
 .doboz2{
-	width: 100%;
+	width: 50%;
 	min-height: 100vh;
 	display: flex;
 	align-items: center;
