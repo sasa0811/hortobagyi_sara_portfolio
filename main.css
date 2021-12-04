@@ -110,3 +110,12 @@ a img{
 	width: 100%;
 }
 
+.galeria2{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	grid-gap: 50px;
+	margin-top: 50px;
+}
+.galeria2 img{
+	width: 40%;
+}
