@@ -110,6 +110,12 @@ a img{
 	width: 100%;
 }
 
+.galeria2{
+	display: grid;
+	grid-gap: 50px;
+	margin-top: 500px;
+}
+
 .doboz2{
 	width: 100%;
 	min-height: 100vh;
