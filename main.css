@@ -117,7 +117,7 @@ a img{
 }
 
 .doboz2{
-	width: 50%;
+	width: 100%;
 	min-height: 100vh;
 	display: flex;
 	align-items: center;
@@ -125,3 +125,8 @@ a img{
 	padding: 60px 10%;
 	margin-top: 700px;
 }
+
+.galeria img{
+	width: 50%;
+}
+
